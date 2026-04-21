@@ -1,4 +1,4 @@
-# JWT AUTHENTICATION PROJECT -->
+# TOKEN BASED AUTHENTICATION API  PROJECT -->
 ## Project Overview
 
 This project is a secure REST API built using Spring Boot and Spring Security. It uses JWT (JSON Web Token) for authentication and for protecting endpoints.
